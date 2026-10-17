@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/2026/10/17/wd/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>博客</title>
     <url>/2026/10/17/one/</url>
     <content><![CDATA[<p>欢迎来到我的博客！这篇文章用来演示 <strong>Markdown</strong> 的常见写法。</p>
@@ -74,5 +69,10 @@
         <tag>随笔</tag>
         <tag>Hexo</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2026/10/17/wd/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
